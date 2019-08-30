@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guia2</string>
+    <string name="instruccion">Ingrese sus Datos:</string>
+    <string name="sesion">Iniciar Sesión</string>
+</resources>
